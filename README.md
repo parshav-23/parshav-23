@@ -6,7 +6,7 @@ I'm Parshav, a developer with a keen interest in data engineering. I enjoy build
 
 🌱 I’m continuously learning and expanding my knowledge in data engineering concepts, cloud technologies, and data infrastructure.
 
-💬 Ask me about data engineering, cloud-based data processing, AWS services (such as S3, Glue, EMR ), Databricks, or any questions related to data infrastructure.
+💬 Ask me about data engineering, cloud-based data processing, AWS services (such as S3, RDS, EMR, Glue ), Databricks, or any questions related to data infrastructure.
 
 📫 How to reach me:
    - LinkedIn: [Parshav Shivnani](https://linkedin.com/in/parshav-s-55933ba3)
