@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**parshav-23/parshav-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Parshav, a developer with a keen interest in data engineering. I enjoy building data-driven applications and developing robust data pipelines to facilitate efficient data processing and analysis.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on developing software solutions that leverage data engineering principles to handle large-scale data processing and storage.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m continuously learning and expanding my knowledge in data engineering concepts, cloud technologies, and data infrastructure.
+
+💬 Ask me about data-driven application development, data pipelines, cloud-based data processing, or any questions related to software development in the context of data engineering.
+
+📫 How to reach me:
+   - LinkedIn: [Parshav Shivnani](https://linkedin.com/in/parshav-s-55933ba3)
+   - Email: parshavshivnani@gmail.com
+
+😄 Pronouns: He/Him
+
+⚡ Fun fact: I enjoy leveraging my development skills to design efficient data workflows and optimize data processing!
+
+Feel free to connect with me on LinkedIn or reach out via email. I'm always open to discussions about data engineering, software development, and exciting data projects!
